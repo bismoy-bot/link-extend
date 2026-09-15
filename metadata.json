@@ -1,0 +1,6 @@
+{
+  "name": "Link Expander",
+  "description": "Shorten URLs with custom aliases, track click analytics and geographic location, manage user links dashboard, and enlarge shortened links safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
